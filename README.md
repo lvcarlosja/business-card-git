@@ -4,4 +4,4 @@
 
 ## This is a great way to get started implementing HTML and CSS skills.
 
-<img src="sample.jpg" />
+<img src="https://github.com/lvcarlosja/business-card-git/blob/main/sample.JPG" />
